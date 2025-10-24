@@ -50,3 +50,9 @@ The original Windows version retains its original license terms:
  * software, in whole or in part, in support of
  * any commercial product without the express
  * consent of the authors.
+
+   
+## Support the Project
+If you find this project useful, consider supporting its development:
+[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?business=lesrhorer@siliconventures.net)
+
