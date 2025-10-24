@@ -53,6 +53,8 @@ The original Windows version retains its original license terms:
 
    
 ## Support the Project
-If you find this project useful, consider supporting its development:
+If you find this project useful, consider supporting its development through PayPal:
+
+
 [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?business=lesrhorer@siliconventures.net)
 
